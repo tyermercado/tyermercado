@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1160811550060331060/1160819051963101195/readme_tyer.png?ex=65360bfc&is=652396fc&hm=318d379cec91f76a4c5520345ceff93bbb58ddbff9582817fdd55ccd129e0c83&)
+//![MasterHead](https://cdn.discordapp.com/attachments/1160811550060331060/1160819051963101195/readme_tyer.png?ex=65360bfc&is=652396fc&hm=318d379cec91f76a4c5520345ceff93bbb58ddbff9582817fdd55ccd129e0c83&)
 
 
 <h3 align="center">I'm a recent IT graduate with an insatiable curiosity for all things technology. Eager to learn, I am always on the lookout for new experiences and exciting challenges. My passion lies in leveraging technology to solve real-world problems and create innovative solutions.</h3>
