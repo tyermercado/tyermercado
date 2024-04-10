@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://tyermercado.github.io/tyerleinster-e-portfolio/](https://tyermercado.github.io/tyerleinster-e-portfolio/)
+- 👨‍💻 All of my projects are available at [https://tyermercado.github.io/tyerleinster-e-portfolio/](https://tyermercado.github.io/tyermercado-portfolio/)
 
 - 📫 How to reach me **leinster.tyer12@gmail.com**
 
