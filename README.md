@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tyerleinster" target="blank"><img src="https://img.shields.io/twitter/follow/tyerleinster?logo=twitter&style=for-the-badge" alt="tyerleinster" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Angular, and Typescript**
 
 - 👨‍💻 All of my projects are available at https://tyermercado.github.io/tyermercado-portfolio/
 
