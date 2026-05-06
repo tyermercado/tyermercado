@@ -45,7 +45,7 @@
       <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,tailwind&perline=3" alt="Frontend Tools" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=java,spring,php,python,django,cpp&perline=3" alt="Backend Tools" />
+      <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,django,cpp&perline=3" alt="Backend Tools" />
     </td>
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux,git&perline=3" alt="Databases and Tools" />
