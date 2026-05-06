@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <p><i>Hi! I'm Tyer, A detail-oriented Junior Developer with a strong foundation in programming and a genuine passion for building practical solutions. I thrive on learning new technologies and turning real-world problems into clean, functional code.</i></p>
+  <p><i>A detail-oriented Junior Developer with a strong foundation in programming and a genuine passion for building practical solutions. I thrive on learning new technologies and turning real-world problems into clean, functional code.</i></p>
 </div>
 
 ---
