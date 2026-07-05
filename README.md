@@ -27,7 +27,7 @@
 ### 👨‍💻 About Me
 
 🌱 I’m currently learning **Java, Laravel, and Inertia**  
-💼 Portfolio: **[[tyermercado.github.io](https://tyermercado.github.io/tyermercado-portfolio/)](https://tyermercado.github.io/)**  
+💼 Portfolio: **https://tyermercado.github.io/**  
 📫 Contact me: **leinster.tyer12@gmail.com**  
 
 <br/>
